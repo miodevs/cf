@@ -1,0 +1,8 @@
+id,songName,storeID,author,levelToUnlock,price,VersionMid,MidFile,delay,typeSong,Category
+1,A Comme Amour,acommeamour,,1,0,0,acommeamour,0,HOT,Offline
+2,Forever,forever,,1,0,0,forever,0,NORMAL,Offline
+3,A Letter,aletter,,2,0,0,aletter,0,HOT,Offline
+4,A little love,alittlelove,,3,0,0,alittlelove,0,NORMAL,Offline
+5,Fur Elise,furelise,,-1,10,0,furelise,0,NORMAL,Offline
+6,Kiss the rain,kisstherain,Yiruma,-1,50,0,kisstherain,0,NEW,Offline
+7,Mother In The Dream,motherinthedream,,4,0,0,motherinthedream,0,NORMAL,Offline
